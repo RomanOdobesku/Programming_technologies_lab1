@@ -1,1 +1,2 @@
-# Programming_technologies_lab1
+# Programming technologies lab1
+Реализация динамической библиотеки (TriangleLibrary), позволяющей проверить подобие двух треугольников, заданных координатами их вершин, а также приложения (TriangleClient), демонстрирующего её использование.
